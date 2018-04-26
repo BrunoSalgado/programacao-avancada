@@ -19,35 +19,30 @@ public:
     /**
      * @desc soma Ponto
      * @param ponto
-     * @return
      */
     Ponto operator+(Ponto ponto);
 
     /**
      * @desc subtracao Ponto
      * @param ponto
-     * @return
      */
     Ponto operator-(Ponto ponto);
 
     /**
      * @desc multiplicacao Ponto
      * @param ponto
-     * @return
      */
     Ponto operator*(Ponto ponto);
 
     /**
      * @desc multiplicacao Ponto com escalar
      * @param e
-     * @return
      */
     Ponto operator*(double e);
 
     /**
      * @desc retorna valor coordenada
      * @param pos
-     * @return
      */
     double operator[](int pos);
 
