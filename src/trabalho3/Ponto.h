@@ -39,7 +39,7 @@ public:
 
     /**
      * @desc multiplicacao Ponto com escalar
-     * @param ponto
+     * @param e
      * @return
      */
     Ponto operator*(double e);
