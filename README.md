@@ -8,7 +8,7 @@ Estudo dirigido de Programação Avançada do curso de Ciência da Computação 
 ## 💾 Descrição de instalação
 Exemplo de instalação para o trabalho 2.
 
-```
+``` bash
 # Install cmake
 $ brew install cmake
 
