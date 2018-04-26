@@ -5,6 +5,20 @@ Estudo dirigido de Programação Avançada do curso de Ciência da Computação 
 - 🎒 Programação Avançada
 - 👨‍🎓 Bruno Salgado
 
+## 💾 Descrição de instalação
+Exemplo de instalação para o trabalho 2.
+
+```
+# Install cmake
+$ brew install cmake
+
+# Run cmake
+$ cmake src/trabalho2/CMakeLists.txt
+
+# Run program
+$ ./trabalho2
+```
+
 ## ✏️ Trabalhos
 - Trabalho 1: Trabalho sobre herança entre classes do tipo Veículo, Carro, Caminhão e Caminhonete;
 - Trabalho 2: Trabalho sobre implementação de uma classe abstrata em um sistema bancário;
