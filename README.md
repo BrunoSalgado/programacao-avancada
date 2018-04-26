@@ -1,2 +1,2 @@
 # 📚 Programação Avançada
-## 👨🏻‍🎓 Bruno Salgado
+## 👨‍🎓 Bruno Salgado
